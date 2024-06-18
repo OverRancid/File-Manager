@@ -1,14 +1,12 @@
 {
     "source": [
-        "C:/Users/overr/OneDrive/Desktop",
-        "C:/Users/overr/Downloads"
     ],
     "destination": {
-        "photos": "C:/Users/overr/OneDrive/Pictures",
-        "documents": "C:/Users/overr/OneDrive/Documents",
-        "executables": "C:/Users/overr/OneDrive/Executable",
-        "attachments": "C:/Users/overr/OneDrive/Attachments",
-        "audio": "C:/Users/overr/OneDrive/Audio"
+        "photos": "",
+        "documents": "",
+        "executables": "",
+        "attachments": "",
+        "audio": ""
     },
     "type": {
         ".jpg": "photos",
